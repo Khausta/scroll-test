@@ -1,0 +1,2 @@
+*,::after,::before{box-sizing:border-box;padding:0;margin:0}html{scroll-behavior:smooth}body{padding:0;margin:0}p{margin-bottom:0}img{border:none}footer,header{margin:auto;max-width:1920px}main{margin:auto}a{text-decoration:none;cursor:pointer}button{border:none;cursor:pointer}ul{list-style:none}.box-3{height:200px;width:100%}.container{height:5000px;background:pink}.sticky-element{position:sticky;top:-20px;border:1px solid #00f;width:10%}
+/*# sourceMappingURL=style.css.map */
